@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am an ITMO student in St. Petersburg. I am studying in the field of Information Security, trying to develop in various directions.
+
+🚀 Interests
+- Web security and web vulnerabilities
+- Game development
+- Pentest
+
+📫 How to reach me: bogodukhov.n22@gmail.com or @mygivvara on tg
+
 <!--
 **mygivvara/mygivvara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
